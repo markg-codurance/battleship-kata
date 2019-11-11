@@ -1,4 +1,4 @@
-#Battleships Kata
+# Battleships Kata
 
 This version of the classic game has three ships:
 
@@ -66,7 +66,7 @@ Using Exhibit A above, here is a battle report based on the ship positions:
 
 Sunk ships have all their coordinates marked with an uppercase X and hit cells have a lower case x where they were not sunk.
 		 
-###Restrictions
+### Restrictions
 
  - Complete using outside-in
  - Each player has maximum
@@ -75,5 +75,5 @@ Sunk ships have all their coordinates marked with an uppercase X and hit cells h
  	- 4 Gunships
 - Grid is 10 x 10 to keep it simple (but the design should be open for enhancements)
 
-###Hardcore enhancement (optional)
+### Hardcore enhancement (optional)
  - Implement an AI player
