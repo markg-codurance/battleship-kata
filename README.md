@@ -48,6 +48,7 @@ Using Exhibit A above, here is a battle report based on the ship positions:
 	Gunship: (9,9),
 	Gunship: (7, 2),
 	Destroyer (2,3) ]
+]
 ```
 
 ```
